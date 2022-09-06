@@ -1,0 +1,15 @@
+brotli==1.0.9
+pyasn1==0.4.8
+kaitaistruct==0.9
+h2==4.1.0
+pyOpenSSL==21.0.0
+pysocks==1.7.1
+certifi==2019.11.28
+blinker==1.4
+pyparsing==2.4.7
+wsproto==1.0.0
+zstandard==0.16.0
+hyperframe==6.0.1
+urllib3==1.25.8
+selenium==3.141.0
+selenium-wire==4.5.5
